@@ -5,7 +5,7 @@
 <body>
 <h1>This Application show multiples of a number entered </h1>
 <p>The multiples will start from 1 to 10</p>
-<form action="multiple_of_a_number.php" method="post">
+<form action="multiples_of_a_number.php" method="post">
 Enter a Number<input type="number" name="number"><br>
 <input type="submit" name="submit">
 </form>
